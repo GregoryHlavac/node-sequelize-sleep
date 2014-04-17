@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-sleep",
+  "version": "0.0.1",
+  "description": "RESTful API Helper to bridge the gap between sequelize and express 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GregoryHlavac/node-sequelize-sleep.git"
+  },
+  "author": "Gregory Hlavac <ghlavac@gmail.com> (https://github.com/GregoryHlavac)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GregoryHlavac/node-sequelize-sleep/issues"
+  },
+  "homepage": "https://github.com/GregoryHlavac/node-sequelize-sleep",
+  "dependencies": {
+    "underscore": "^1.6.0",
+    "express": "^4.0.0",
+    "sequelize": "^1.7.2"
+  }
+}
