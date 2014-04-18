@@ -49,8 +49,8 @@ ie now available endpoints on that server are..
 * /api
     * /projects GET => List of projects.
         * /:id => GET project with ID
-            /releases GET => List of Releases on Project
-            /:release_id => Get Release with ID on Project.
+            * /releases GET => List of Releases on Project
+            * /:release_id => Get Release with ID on Project.
         * /page => GET simple pagination API
 
 
