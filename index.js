@@ -3,4 +3,4 @@
  *  @module sequelize-sleep
 **/
 
-module.exports = require('./lib/sleep');
+module.exports = require('./lib/Sleep');
