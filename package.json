@@ -1,6 +1,6 @@
 {
   "name": "sequelize-sleep",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "RESTful API Helper to bridge the gap between sequelize and express 4",
   "main": "index.js",
   "scripts": {
